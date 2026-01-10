@@ -7,6 +7,7 @@ When you first open the app, you will see many options!
 <img width="692" height="720" alt="Screenshot 2026-01-10 002243" src="https://github.com/user-attachments/assets/8a592390-77f4-494b-b5e5-f7807884d57f" />
 
 The first option is to select the theme you want to use. I have a few neon themes and a few solid color themes you can select from.
+
 <img width="691" height="716" alt="Screenshot 2026-01-10 001808" src="https://github.com/user-attachments/assets/10639dce-d8d4-437c-8b51-cd085b5ad1e6" />
 
 Now, you cannot shuffle perks until you select at least four perks. To do this, click the perk selection tab and select either all, or you can search perks instead of scrolling. They are all in alphabetical order.
