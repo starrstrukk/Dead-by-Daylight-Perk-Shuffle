@@ -14,6 +14,7 @@ Now, you cannot shuffle perks until you select at least four perks. To do this, 
 <img width="689" height="724" alt="Screenshot 2026-01-10 001836" src="https://github.com/user-attachments/assets/565f5ccf-55c3-44f2-8542-a958c6f45eef" />
 
 Once you have selected perks, you can now shuffle! The first shuffle mode is the basic mode. You click shuffle and it will give you four random perks.
+
 <img width="688" height="722" alt="Screenshot 2026-01-10 001853" src="https://github.com/user-attachments/assets/c2ae2176-1841-4828-b640-72fa9b3ffbd9" />
 
 The next mode is Draft Mode. In Draft Mode, it prompts you with three perks to select for each slot and you choose one until all four slots are filled. You basically get random perks but you still have some control over what perks you have in your build.
