@@ -1,4 +1,7 @@
 # Dead-by-Daylight-Perk-Shuffle
+
+Download tutorial: https://www.youtube.com/watch?v=EqbpTXv3iOc
+
 This app is a perk shuffle for Dead by Daylight. Its a fun addition to your game! Choose from a handful of themes, select owned perks, and do fun modes and challenges!
 
 I plan to integrate many features into this app. I am hoping to eventually turn this into a companion app.
